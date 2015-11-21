@@ -1,3 +1,6 @@
+# Author's Note:
+So this challenge seems pretty fun. I am going to write it in a .py file first, and then put it in a flask or django app. For kicks, I might write it in javascript too. 
+
 # <a href='http://www.jrdevjobs.com' target='_blank'>Jr.DevJobs</a> Challenge: English Numbers
 
 ## Introduction
